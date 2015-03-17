@@ -3,13 +3,13 @@ require 'grape'
 
 class API < Grape::API
   get :hello do
-    { hello: "Pete" }
+    { hello: "Hello World, from Grape" }
   end
 end
 
 class Web < Sinatra::Base
   get '/' do
-    "Hello world."
+    "Hello world, from Sinatra."
   end
 end
 
