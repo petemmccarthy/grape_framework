@@ -1,4 +1,4 @@
 Grape Framework
 ==========
 
-PLaying with the Ruby framework 'Grape' at Ruby Hacknight.
+Exploring 'Grape' at Ruby Hacknight. Grape is a REST-like API micro-framework for Ruby.
